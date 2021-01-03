@@ -2,6 +2,7 @@
 
 int main() {
     std::cout << "Enter your age: ";
+    // unsigned ensures that it's >0
     unsigned int age = 0;
     std::cin >> age;
     if (age < 18) {
