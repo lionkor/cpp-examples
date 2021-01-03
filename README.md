@@ -2,6 +2,8 @@
 
 A collection of simple and easy to understand C++17 code examples for beginners to learn from!
 
+Note that these do **not** use `using namespace std;`, so there are `std::` littered all over the code. This is proper professional C++ style and beginners should familiarize themselves with this aesthetic, so its kept in.
+
 In order of increasing complexity:
 
 0. [hello_world](https://github.com/lionkor/cpp-examples/blob/master/hello_world.cpp)
